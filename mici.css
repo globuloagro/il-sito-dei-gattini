@@ -1,0 +1,42 @@
+.titolo{
+    color: red;
+
+}
+
+.micini{
+    width:200px;height:100px;
+}
+
+.micini2{
+    width:100px;
+}
+
+.sfondo{
+    background-color: beige;
+
+}
+
+.pipeto{
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%);
+    padding:20px;
+}
+
+.paragrafo{
+    box-shadow: 2px 2px 7px 1px rgba(164,48,48,0.97); 
+        color: green; 
+        font-size:50px; 
+        background-color:yellow;
+        width: 60%;
+        height: 300px;
+        margin-left: 15%;
+        padding: 40px;
+}
+
+#classificamici{
+    color: green;
+    background-color:yellow;
+    margin-left: 35%;
+    margin-right: 35%;
+}
