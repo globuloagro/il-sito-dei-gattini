@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- QUESTE SONO INFO PER IL BROWSER -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="mici.css">
+    <title>il sito di pippetto</title>
+</head>
+<body class="sfondo">
+    <div class="pipeto">
+        <h1>ciao, <br>questo è il sito di pippetto</h1>
+    <h2 class="titolo">qui si parla di pippetto, ma anche di altri mici, in particolare di</h2>
+    <p>
+        <ul>
+            <li>mici <b>belli</b></li>
+            <li>mici <i>brutti</i></li>
+            <li>mici <strong>piccoli</strong> piccoli</li>
+            <li><sup>papitas</sup></li>
+        </ul>
+    </p>
+    <p id="classificamici">
+        classifica dei mici: <br>
+        <ol>
+            <li>pipeto</li>
+            <li>loki</li>
+            <li>freya</li>
+        </ol>
+    </p>
+
+
+
+
+    <h2>eccone alcuni!</h2>
+    <img class="micini" src="immagini/news-kittens.jpg" alt="kitties">
+    <img class="micini2" src="immagini/gatto-5-scaled.jpg" alt="kitties">
+    <img class="micini2" src="https://www.nomigatti.it/wp-content/uploads/2016/11/white-scottish-purebred-cat-is-sitting-on-blue-background-180414770-810x540.jpg" alt="kitties">
+</div>
+
+<div>
+    <div>   
+        <h4>ciao sono valerio e sono il webmaster</h4>
+        <br>
+        <video width="444px" autoplay muted loop>         <!-- oppure usare come attributo src="izejbspzevf81.mp4"-->
+            <source src="izejbspzevf81.mp4" type="video/mp4">
+            <!-- <source src="izejbspzevf81.ogg" type="video/ogg"> --> 
+            il tuo broswer non può vedere cotale magnificenza, cyao.
+        </video>
+        <iframe style="margin-left: 20px;" width="500" height="305" src="https://www.youtube.com/embed/JNX2nOYuWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <div style="background-color: goldenrod;
+                padding: 10px;">
+
+        <div style="background-color:blue;
+                    padding: 10px;
+                    margin-bottom: 10px;">
+            <h2>div generico</h2>
+        </div>
+
+        <div style="background-color:orangered;
+                    padding: 10px">
+            <p>par genericone</p>
+        </div>
+
+    </div>
+
+    <div>
+        <p>
+            <h3>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
+                <span style="background-color:yellow;
+                            font-size:70px;
+                            color: aqua;
+                ">
+                    Nulla pellentesque iaculis vulputate
+                </span>.
+            
+
+            </h3>
+        </p>
+        <p>Curabitur at velit sed ipsum dapibus laoreet. <hr>
+             Phasellus nec urna at massa lacinia blandit. <hr>  Cras in interdum lacus. Suspendisse potenti. Maecenas posuere augue sit amet mauris viverra blandit. Donec lorem nunc, sollicitudin ut ultricies at, vestibulum at sem. Praesent in diam nec enim suscipit tincidunt eu sit amet risus. Phasellus sem tortor, feugiat non mi sit amet, pellentesque hendrerit ligula. Morbi imperdiet euismod magna, sit amet luctus ante scelerisque sed.</p>
+        <p>Vivamus convallis odio quis velit eleifend, eget auctor lectus finibus. Nulla feugiat eros vel tellus laoreet, a pharetra erat faucibus. Proin sagittis, quam id molestie maximus, ante magna posuere sem, a mollis odio purus luctus tortor. Duis ullamcorper nisl sed turpis vehicula, a vehicula purus bibendum. Nullam eleifend dolor dignissim, lobortis lorem quis, faucibus neque. Nullam tempus neque sed lorem cursus porttitor. Sed vitae suscipit risus. Donec consectetur justo eu massa gravida commodo. Integer pulvinar sagittis libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec non volutpat tortor, at faucibus turpis. Integer ultrices semper metus, eget dictum nisl finibus ac. Nunc tellus nibh, aliquam et malesuada eget, luctus sed tortor. Mauris est risus, euismod quis lacus sit amet, varius maximus nunc. Vestibulum euismod, nisi id finibus dapibus, ipsum neque commodo lorem, vitae fermentum felis lacus imperdiet mauris. Aenean in neque sem.</p>
+    </div>
+</div>
+
+    <p>
+        <h3>per vederne più micini andare su 
+            <a href="https://en.wikipedia.org/wiki/Kitten" target="_blank" title="mici">micetti.net</a>
+        </h3>
+    </p>
+
+    <p class="paragrafo">
+        ciao pipi<br>
+        ciao pipiii<br>
+        ciao piiipiii
+    </p>
+
+
+    <p><a href="https://www.google.it" target="_blank" title="altri mici">qua altri mici se cercate bene</a></p>
+</body>
+</html>
+
+
+
+
+
+
